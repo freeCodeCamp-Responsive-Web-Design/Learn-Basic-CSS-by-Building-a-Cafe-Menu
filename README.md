@@ -1,0 +1,24 @@
+# Learn Basic CSS by Building a Cafe Menu
+
+This project is part of the **FreeCodeCamp** curriculum where you'll learn the fundamentals of **CSS** by creating a simple, visually appealing **Cafe Menu**.
+
+## In this project, you will:
+
+- Explore essential CSS concepts like **selectors**, **properties**, and **values**.
+- Style text, backgrounds, and layout elements using CSS to create a well-organized menu.
+- Learn how to utilize **flexbox** and **margins** to structure content.
+- Practice adding custom **fonts**, adjusting **colors**, and formatting **lists**.
+
+By the end of this project, you will have a solid understanding of the basics of **CSS** and how to apply these concepts to style simple web pages.
+
+## Skills You'll Gain:
+
+- **CSS basics**: styling text, layout, and backgrounds
+- Using **Flexbox** for layout control
+- Enhancing visual appeal with **colors**, **fonts**, and **margins**
+
+This is an excellent project for beginners looking to strengthen their CSS skills by building real-world projects.
+
+---
+
+Feel free to modify or expand the project based on your preferences!
