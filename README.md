@@ -2,6 +2,10 @@
 
 This project is part of the **FreeCodeCamp** curriculum where you'll learn the fundamentals of **CSS** by creating a simple, visually appealing **Cafe Menu**.
 
+Here is the link to access the Learn Basic CSS by Building a Cafe Menu project on FreeCodeCamp:
+
+[Learn Basic CSS by Building a Cafe Menu](https://freecodecamp-responsive-web-design.github.io/learn-basic-css-by-building-a-cafe-menu/)
+
 ## In this project, you will:
 
 - Explore essential CSS concepts like **selectors**, **properties**, and **values**.
